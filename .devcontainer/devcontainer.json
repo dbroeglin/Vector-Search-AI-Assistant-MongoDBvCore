@@ -6,6 +6,21 @@
 	"image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0-bookworm",
 	"features": {
 		"ghcr.io/devcontainers/features/dotnet:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-azuretools.vscode-bicep",
+				"ms-dotnettools.vscode-dotnet-runtime",
+				"ms-vscode.azure-repos",
+				"ms-dotnettools.csharp",
+				"ms-dotnettools.csdevkit",
+				"GitHub.codespaces",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"msazurermtools.azurerm-vscode-tools"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
