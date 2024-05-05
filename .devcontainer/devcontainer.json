@@ -18,7 +18,10 @@
 				"GitHub.codespaces",
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
-				"msazurermtools.azurerm-vscode-tools"
+				"msazurermtools.azurerm-vscode-tools",
+				"ms-azuretools.vscode-cosmosdb",
+				"ms-vscode.vscode-node-azure-pack",
+				"mongodb.mongodb-vscode"
 			]
 		}
 	}
